@@ -1019,7 +1019,7 @@ elif menu == "第三章 結果與討論":
 
     elif submenu == "3.5 streamlit UI設計與資料可視化結果":
         st.title("3.5 streamlit UI設計與資料可視化結果")
-        st.markdown('### 點擊可直接開啟"[期末報告網頁](https://cheat-sheet.streamlit.app/)"查看')  
+        st.markdown('### 點擊可直接開啟"[期末報告網頁](https://1131finaltest-5fumulhr2qjuaiwk8xhe2l.streamlit.app/)"查看')  
         st.markdown('### 也可透過streamlit啟動')  
         code = """
             streamlit run "Team1_Final report.py"
